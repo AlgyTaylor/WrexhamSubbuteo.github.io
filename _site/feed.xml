@@ -1,58 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Wrexham Subbuteo</title>
+    <description>Information about Subbuteo Table Football in North Wales 
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Mar 2016 23:25:59 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Mar 2016 23:25:59 +0000</lastBuildDate>
+    <link>https://WrexhamSubbuteo.github.io/</link>
+    <atom:link href="https://WrexhamSubbuteo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Mar 2016 20:30:30 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Mar 2016 20:30:30 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>2016 Open Venue Confirmed</title>
-        <description>&lt;p&gt;The venue for the 2016 Wrexham Open can now be confirmed as the
-&lt;a href=&quot;http://www.yelp.com/biz/wrexham-lager-sports-and-social-club-wrexham&quot;&gt;Wrexham Lager Club&lt;/a&gt;.
-The club is located in central Wrexham, and offers a range of drinks and
-hot food at reasonable prices.&lt;/p&gt;
+        <title>Website Launched</title>
+        <description>&lt;h1 id=&quot;a-fresh-start&quot;&gt;A fresh start&lt;/h1&gt;
 
-&lt;h2 id=&quot;getting-here&quot;&gt;Getting Here&lt;/h2&gt;
+&lt;p&gt;Welcome to the brand new website devoteed to people who play the famous
+tabletop football game - Subbuteo - in North Wales! If that doesn’t get
+your pulse racing, I don’t know what will!&lt;/p&gt;
 
-&lt;h3 id=&quot;train&quot;&gt;Train&lt;/h3&gt;
+&lt;p&gt;Anyway, this has been a plan for a while, but only just materialised.
+Subbuteo has long been a staple in North East Wales, with Flintshire once
+boasting the largest Subbuteo club in the UK, along with several
+larger-than-life characters.&lt;/p&gt;
 
-&lt;p&gt;The nearest railway station is &lt;a href=&quot;http://www.nationalrail.co.uk/stations/wrx/details.html&quot;&gt;Wrexham General&lt;/a&gt;,
-which is a 2 minute walk from the venue.&lt;/p&gt;
+&lt;p&gt;“The new era” will begin with the &lt;a href=&quot;/opencup2016/&quot;&gt;Wrexham Open Cup 2016&lt;/a&gt;
+which will hopefully become an annual event. Depending on the success of
+that venture, we might even expand to having a bit of a North Wales league!&lt;/p&gt;
 
-&lt;h3 id=&quot;car&quot;&gt;Car&lt;/h3&gt;
+&lt;p&gt;Anyway, keep checking this exciting website for more news - or more likely,
+stumble upon this website and see news that hasn’t been updated for heaven
+knows how long!&lt;/p&gt;
 
-&lt;p&gt;There are &lt;a href=&quot;http://en.parkopedia.co.uk/parking/1_union_road_wrexham_united_kingdom/?ac=1&amp;amp;country=UK&amp;amp;lat=53.0481039&amp;amp;lng=-3.0004625999999917&quot;&gt;numerous places to park close to Wrexham Lager Club&lt;/a&gt;,
-with the NCP Car Park opposite being one of the cheaper options. The venue’s
-postcode is LL13 7SR.&lt;/p&gt;
-
-&lt;h3 id=&quot;bus--coach&quot;&gt;Bus &amp;amp; Coach&lt;/h3&gt;
-
-&lt;p&gt;Wrexham Bus Station is a short walk from the venue, and is served by a
-number of local and regional services, as well as National Express routes
-&lt;a href=&quot;https://coachtracker.nationalexpress.com/routes/381/I/Wrexham-Leeds&quot;&gt;381 (Wrexham to Leeds)&lt;/a&gt;
-and &lt;a href=&quot;https://coachtracker.nationalexpress.com/routes/545/I/Pwllheli-London&quot;&gt;545 (London to Pwllhelli)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;planes&quot;&gt;Planes&lt;/h3&gt;
-
-&lt;p&gt;Suggested local airports are &lt;a href=&quot;http://www.liverpoolairport.com/destinations/&quot;&gt;Liverpool John Lennon&lt;/a&gt;,
-&lt;a href=&quot;http://www.manchesterairport.co.uk/flight-information/flight-operators/&quot;&gt;Manchester&lt;/a&gt;,
-and &lt;a href=&quot;https://www.birminghamairport.co.uk/arrivals-and-departures/&quot;&gt;Birmingham&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;ferry&quot;&gt;Ferry&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.holyheadport.com/index.php/visiting-cruise-ships/ferry-times&quot;&gt;Holyhead Port&lt;/a&gt;,
-served by StenaLine and Irish Ferries, boasts regular ferries to Dublin and
-an hourly rail service to Wrexham General. Alternatively, either Liverpool
-or Birkenhead ports are both easy to get to and from.&lt;/p&gt;
+&lt;p&gt;There may also be the occasional article on here, mostly reproduced from the
+club’s contributions to new UK table football magazine ‘Grande Subbuteo’.
+Again, it’s quite a treat, I’m sure you’ll agree.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-        <link>http://yourdomain.com/2016/03/08/welcome.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/03/08/welcome.html</guid>
+        <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+        <link>https://WrexhamSubbuteo.github.io/2016/03/10/welcome.html</link>
+        <guid isPermaLink="true">https://WrexhamSubbuteo.github.io/2016/03/10/welcome.html</guid>
         
         
       </item>
